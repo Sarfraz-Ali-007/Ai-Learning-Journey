@@ -8,7 +8,7 @@ A Sequential Workflow is a workflow in which **nodes execute one after another i
 
 Each node performs a task and then passes the updated state to the next node.
 
-Flow example:
+Flow example
 
 ```
 Node 1 → Node 2 → Node 3 → End
@@ -112,5 +112,4 @@ Main components:
 This type of workflow is useful for **simple and structured AI processes**.
 
 ---
-
 If you want, I can also give you **very short “1-page revision notes for LangGraph (all topics)”** so your **GitHub notes + exam preparation become very efficient.**
