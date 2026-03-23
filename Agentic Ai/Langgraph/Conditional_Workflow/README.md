@@ -120,6 +120,3 @@ Main points:
 * Important for building **intelligent AI agents**
 
 ---
-
-If you want next, I can give you **Agent + Tool Calling notes (very important for LangGraph and freelancing projects)** 🚀
-
